@@ -2,7 +2,7 @@
 #include "Header.h"
 #include "stdafx.h"
 
-
+//yiikou is bool
 
 
 class Painter
